@@ -4,17 +4,15 @@ using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        map<int,int> res_hash;
+        map<int,int> mp;
         vector<int> result;
         for(int i = 0; i < nums.size(); i++) {
-            if(res_hash.find(target - nums[i]) != res_hash.end()) {
-                result.push_back(res_hash[target - nums[i]]);
+            if (mp.count(target - nums[i])) {
                 result.push_back(i);
+                result.push_back(mp[target - nums[i]]);
                 return result;
-            } else {
-                res_hash[nums[i]] = i;
             }
+            mp.insert({nums[i], i});
         }
-        return result;
     }
 };
