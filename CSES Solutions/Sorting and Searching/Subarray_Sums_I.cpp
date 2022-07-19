@@ -4,7 +4,7 @@
 #include <algorithm>
 using namespace std;
 #define int long long int
-
+ 
 int32_t main () {
     int n, x;
     cin >> n >> x;
@@ -12,7 +12,7 @@ int32_t main () {
     for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
-
+ 
     int m = 0;
     int count = 0;
     map<int, int> mp;
@@ -21,7 +21,7 @@ int32_t main () {
         if (m == x) {
             count++;
         }
-
+ 
         if (mp.count(m - x)) {
             count += mp[m - x];
         }

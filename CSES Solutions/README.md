@@ -1,5 +1,319 @@
 # CSES_Solution
-Username: linhenry2004
-Current Rank (Till 6/30/2022): 44/80k
-Here are my solutions to CSES problem sets.
-Link to all problems: https://cses.fi/problemset/list/
+> Accepted solutions of [CSES problemset](https://cses.fi/problemset)
+
+> Username: linhenry2004
+
+> Current Rank (Till 7/19/2022): 44/80k
+
+| Problem Type          | Number Solved |
+|-----------------------|:-------------:|
+| Introductory Problems |     19/19     |
+| Sorting and Searching |     35/35     |
+| Dynamic Programming   |     19/19     |
+| Graph Algorithms      |     36/36     |
+| Range Queries         |     19/19     |
+| Tree Algorithms       |     16/16     |
+| Mathematics           |     31/31     |
+| String Algorithms     |     17/17     |
+| Geometry              |      7/7      |
+| Advanced Techniques   |     24/24     |
+| Additional Problems   |     66/77     |
+| **Total**             |  **289/300**  |
+
+## Table of Contents
+- [Introductory Problems](#Introductory-Problems)
+- [Sorting and Searching](#Sorting-and-Searching)
+- [Dynamic Programming](#Dynamic-Programming)
+- [Graph Algorithms](#Graph-Algorithms)
+- [Range Queries](#Range-Queries)
+- [Tree Algorithms](#Tree-Algorithms)
+- [Mathematics](#Mathematics)
+- [String Algorithms](#String-Algorithms)
+- [Geometry](#Geometry)
+- [Advanced Techniques](#Advanced-Techniques)
+- [Additional Problems](#Additional-Problems)
+
+--- 
+## Introductory Problems
+1. [1068 - Weird Algorithm](Introductory%20Problems/Weird%20Algorithm/Weird_Algorithm.cpp)
+1. [1083 - Missing Number](Introductory%20Problems/Missing_Number.cpp)
+1. [1069 - Repetitions](Introductory%20Problems/Repetitions.cpp)
+1. [1094 - Increasing Array](Introductory%20Problems/Increasing_Array.cpp)
+1. [1070 - Permutations](Introductory%20Problems/Permutations.cpp)
+1. [1071 - Number Spiral](Introductory%20Problems/Number_Spiral.cpp)
+1. [1072 - Two Knights](Introductory%20Problems/Two_Knights.cpp)
+1. [1092 - Two Sets](Introductory%20Problems/Two_Sets.cpp)
+1. [1617 - Bit Strings](Introductory%20Problems/Bit_Strings.cpp)
+1. [1618 - Trailing Zeros](Introductory%20Problems/Trailing_Zeros.cpp)
+1. [1754 - Coin Piles](Introductory%20Problems/Coin_Piles.cpp)
+1. [1755 - Palindrome Reorder](Introductory%20Problems/Palindrome_Reorder.cpp)
+1. [2205 - Gray Code](Introductory%20Problems/Gray_Code.cpp)
+1. [2165 - Tower of Hanoi](Introductory%20Problems/Tower_of_Hanoi.cpp)
+1. [1622 - Creating Strings](Introductory%20Problems/Creating_Strings.cpp)
+1. [1623 - Apple Division](Introductory%20Problems/Apple_Division.cpp)
+1. [1624 - Chessboard and Queens](Introductory%20Problems/Chessboard_and_Queens.cpp)
+1. [2431 - Digit Queries](Introductory%20Problems/Digit_Queries.cpp)
+1. [1625 - Grid Paths](Introductory%20Problems/Grid_Paths.cpp)
+
+## Sorting and Searching
+1. [1621 - Distinct Numbers](Sorting%20and%20Searching/Distinct_Numbers.cpp)
+1. [1084 - Apartments](Sorting%20and%20Searching/Apartments.cpp)
+1. [1090 - Ferris Wheel](Sorting%20and%20Searching/Ferris_Wheel.cpp)
+1. [1091 - Concert Tickets](Sorting%20and%20Searching/Concert_Tickets.cpp)
+1. [1619 - Restaurant Customers](Sorting%20and%20Searching/Restaurant_Customers.cpp)
+1. [1629 - Movie Festival](Sorting%20and%20Searching/Movie_Festival_I.cpp)
+1. [1640 - Sum of Two Values](Sorting%20and%20Searching/Sum_of_Two_Values.cpp)
+1. [1643 - Maximum Subarray Sum](Sorting%20and%20Searching/Maximum_Subarray_Sum_I.cpp)
+1. [1074 - Stick Lengths](Sorting%20and%20Searching/Stick_Lengths.cpp)
+1. [2183 - Missing Coin Sum](Sorting%20and%20Searching/Missing_Coin_Sum.cpp)
+1. [2216 - Collecting Numbers](Sorting%20and%20Searching/Collecting_Numbers_I.cpp)
+1. [2217 - Collecting Numbers II](Sorting%20and%20Searching/Collecting_Numbers_II.cpp)
+1. [1141 - Playlist](Sorting%20and%20Searching/Playlist.cpp)
+1. [1073 - Towers](Sorting%20and%20Searching/Towers.cpp)
+1. [1163 - Traffic Lights](Sorting%20and%20Searching/Traffic_Lights.cpp)
+1. [2162 - Josephus Problem I](Sorting%20and%20Searching/Josephus_Problem_I.cpp)
+1. [2163 - Josephus Problem II](Sorting%20and%20Searching/Josephus_Problem_II.cpp)
+1. [2168 - Nested Ranges Check](Sorting%20and%20Searching/Nested_Ranges_Check.cpp)
+1. [2169 - Nested Ranges Count](Sorting%20and%20Searching/Nested_Ranges_Count.cpp)
+1. [1164 - Room Allocation](Sorting%20and%20Searching/Room_Allocation.cpp)
+1. [1620 - Factory Machines](Sorting%20and%20Searching/Factory_Machines.cpp)
+1. [1630 - Tasks and Deadlines](Sorting%20and%20Searching/Tasks_and_Deadlines.cpp)
+1. [1631 - Reading Books](Sorting%20and%20Searching/Reading_Books.cpp)
+1. [1641 - Sum of Three Values](Sorting%20and%20Searching/Sum_of_Three_Values.cpp)
+1. [1642 - Sum of Four Values](Sorting%20and%20Searching/Sum_of_Four_Values.cpp)
+1. [1645 - Nearest Smaller Values](Sorting%20and%20Searching/Nearest_Smaller_Values.cpp)
+1. [1660 - Subarray Sums I](Sorting%20and%20Searching/Subarray_Sums_I.cpp)
+1. [1661 - Subarray Sums II](Sorting%20and%20Searching/Subarray_Sums_II.cpp)
+1. [1662 - Subarray Divisibility](Sorting%20and%20Searching/Subarray_Divisibility.cpp)
+1. [2428 - Subarray Distinct Values](Sorting%20and%20Searching/Subarray_Distinct_Values.cpp)
+1. [1085 - Array Division](Sorting%20and%20Searching/Array_Division.cpp)
+1. [1076 - Sliding Median](Sorting%20and%20Searching/Sliding_Median.cpp)
+1. [1077 - Sliding Cost](Sorting%20and%20Searching/Sliding_Cost.cpp)
+1. [1632 - Movie Festival II](Sorting%20and%20Searching/Movie_Festival_II.cpp)
+1. [1644 - Maximum Subarray Sum II](Sorting%20and%20Searching/Maximum_Subarray_Sum_II.cpp)
+
+## Dynamic Programming
+1. [1633 - Dice Combinations](Dynamic%20Programming/Dice_Combinations.cpp)
+1. [1634 - Minimizing Coins](Dynamic%20Programming/Minimizing_Coins.cpp)
+1. [1635 - Coin Combinations I](Dynamic%20Programming/Coin_Combinations_I.cpp)
+1. [1636 - Coin Combinations II](Dynamic%20Programming/Coin_Combinations_II.cpp)
+1. [1637 - Removing Digits](Dynamic%20Programming/Removing_Digits.cpp)
+1. [1638 - Grid Paths](Dynamic%20Programming/Grid_Paths.cpp)
+1. [1158 - Book Shop](Dynamic%20Programming/Book_Shop.cpp)
+1. [1746 - Array Description](Dynamic%20Programming/Array_Description.cpp)
+1. [2413 - Counting Towers](Dynamic%20Programming/Counting_Towers.cpp)
+1. [1639 - Edit Distance](Dynamic%20Programming/Edit_Distance.cpp)
+1. [1744 - Rectangle Cutting](Dynamic%20Programming/Rectangle_Cutting.cpp)
+1. [1745 - Money Sums](Dynamic%20Programming/Money_Sums.cpp)
+1. [1097 - Removal Game](Dynamic%20Programming/Removal_Game.cpp)
+1. [1093 - Two Sets II](Dynamic%20Programming/Two_Sets_II.cpp)
+1. [1145 - Increasing Subsequence](Dynamic%20Programming/Increasing_Subsequence.cpp)
+1. [1140 - Projects](Dynamic%20Programming/Projects.cpp)
+1. [1653 - Elevator Rides](Dynamic%20Programming/Elevator_Rides.cpp)
+1. [2181 - Counting Tilings](Dynamic%20Programming/Counting_Tilings.cpp)
+1. [2220 - Counting Numbers](Dynamic%20Programming/Counting_Numbers.cpp)
+
+## Range Queries
+1. [1646 - Static Range Sum Queries](Range%20Queries/Static_Range_Sum_Queries.cpp)
+1. [1647 - Static Range Minimum Queries](Range%20Queries/Static_Range_Minimum_Queries.cpp)
+1. [1648 - Dynamic Range Sum Queries](Range%20Queries/Dynamic_Range_Sum_Queries.cpp)
+1. [1649 - Dynamic Range Minimum Queries](Range%20Queries/Dynamic_Range_Minimum_Queries.cpp)
+1. [1650 - Range Xor Queries](Range%20Queries/Range_Xor_Queries.cpp)
+1. [1651 - Range Update Queries](Range%20Queries/Range_Update_Queries.cpp)
+1. [1652 - Forest Queries](Range%20Queries/Forest_Queries.cpp)
+1. [1143 - Hotel Queries](Range%20Queries/Hotel_Queries.cpp)
+1. [1749 - List Removals](Range%20Queries/List_Removals.cpp)
+1. [1144 - Salary Queries](Range%20Queries/Salary_Queries.cpp)
+1. [2166 - Prefix Sum Queries](Range%20Queries/Prefix_Sum_Queries.cpp)
+1. [2206 - Pizzeria Queries](Range%20Queries/Pizzeria_Queries.cpp)
+1. [1190 - Subarray Sum Queries](Range%20Queries/Subarray_Sum_Queries.cpp)
+1. [1734 - Distinct Values Queries](Range%20Queries/Distinct_Values_Queries.cpp)
+1. [2416 - Increasing Array Queries](Range%20Queries/Increasing_Array_Queries.cpp)
+1. [1739 - Forest Queries II](Range%20Queries/Forest_Queries_II.cpp)
+1. [1735 - Range Updates and Sums](Range%20Queries/Range_Updates_and_Sums.cpp)
+1. [1736 - Polynomial Queries](Range%20Queries/Polynomial_Queries.cpp)
+1. [1737 - Range Queries and Copies](Range%20Queries/Range_Queries_and_Copies.cpp)
+
+## Tree Algorithms
+1. [1674 - Subordinates](Tree%20Algorithms/Subordinates.cpp)
+1. [1130 - Tree Matching](Tree%20Algorithms/Tree_Matching.cpp)
+1. [1131 - Tree Diameter](Tree%20Algorithms/Tree_Diameter.cpp)
+1. [1132 - Tree Distances I](Tree%20Algorithms/Tree_Distances_I.cpp)
+1. [1133 - Tree Distances II](Tree%20Algorithms/Tree_Distances_II.cpp)
+1. [1687 - Company Queries I](Tree%20Algorithms/Company_Queries_I.cpp)
+1. [1688 - Company Queries II](Tree%20Algorithms/Company_Queries_II.cpp)
+1. [1135 - Distance Queries](Tree%20Algorithms/Distance_Queries.cpp)
+1. [1136 - Counting Paths](Tree%20Algorithms/Counting_Paths.cpp)
+1. [1137 - Subtree Queries](Tree%20Algorithms/Subtree_Queries.cpp)
+1. [1138 - Path Queries](Tree%20Algorithms/Path_Queries_I.cpp)
+1. [2134 - Path Queries II](src/2134%20-%20Path%20Queries%20II.cpp)
+1. [1139 - Distinct Colors](Tree%20Algorithms/Distinct_Colors.cpp)
+1. [2079 - Finding a Centroid](Tree%20Algorithms/Finding_a_Centroid.cpp)
+1. [2080 - Fixed-Length Paths I](Tree%20Algorithms/Fixed_Length_Paths_I.cpp)
+1. [2081 - Fixed-Length Paths II](Tree%20Algorithms/Fixed_Length_Paths_II.cpp)
+
+## Mathematics
+1. [2164 - Josephus Queries](Mathematics/Josephus_Queries.cpp)
+1. [1095 - Exponentiation](Mathematics/Exponentiation.cpp)
+1. [1712 - Exponentiation II](Mathematics/Exponentiation_II.cpp)
+1. [1713 - Counting Divisors](Mathematics/Counting_Divisors.cpp)
+1. [1081 - Common Divisors](Mathematics/Common_Divisors.cpp)
+1. [1082 - Sum of Divisors](Mathematics/Sum_of_Divisors.cpp)
+1. [2182 - Divisor Analysis](Mathematics/Divisor_Analysis.cpp)
+1. [2185 - Prime Multiples](Mathematics/Prime_Multiples.cpp)
+1. [2417 - Counting Coprime Pairs](Mathematics/Counting_Coprime_Pairs.cpp)
+1. [1079 - Binomial Coefficients](Mathematics/Binomial_Coefficients.cpp)
+1. [1715 - Creating Strings II](Mathematics/Creating_Strings_II.cpp)
+1. [1716 - Distributing Apples](Mathematics/Distributing_Apples.cpp)
+1. [1717 - Christmas Party](Mathematics/Christmas_Party.cpp)
+1. [2064 - Bracket Sequences I](Mathematics/Bracket_Sequences_I.cpp)
+1. [2187 - Bracket Sequences II](Mathematics/Bracket_Sequences_II.cpp)
+1. [2209 - Counting Necklaces](Mathematics/Counting_Necklaces.cpp)
+1. [2210 - Counting Grids](Mathematics/Counting_Grids.cpp)
+1. [1722 - Fibonacci Numbers](Mathematics/Fibonacci_Numbers.cpp)
+1. [1096 - Throwing Dice](Mathematics/Throwing_Dice.cpp)
+1. [1723 - Graph Paths I](Mathematics/Graph_Paths_I.cpp)
+1. [1724 - Graph Paths II](Mathematics/Graph_Paths_II.cpp)
+1. [1725 - Dice Probability](Mathematics/Dice_Probability.cpp)
+1. [1726 - Moving Robots](Mathematics/Moving_Robots.cpp)
+1. [1727 - Candy Lottery](Mathematics/Candy_Lottery.cpp)
+1. [1728 - Inversion Probability](Mathematics/Inversion_Probability.cpp)
+1. [1729 - Stick Game](Mathematics/Stick_Game.cpp)
+1. [1730 - Nim Game I](Mathematics/Nim_Game_I.cpp)
+1. [1098 - Nim Game II](Mathematics/Nim_Game_II.cpp)
+1. [1099 - Stair Game](Mathematics/Stair_Game.cpp)
+1. [2207 - Grundy's Game](Mathematics/Grundys_Game.cpp)
+1. [2208 - Another Game](Mathematics/Another_Game.cpp)
+
+## String Algorithms
+1. [1731 - Word Combinations](String%20Algorithms/Word_Combinations.cpp)
+1. [1753 - String Matching](String%20Algorithms/String_Matching.cpp)
+1. [1732 - Finding Borders](String%20Algorithms/Finding_Borders.cpp)
+1. [1733 - Finding Periods](String%20Algorithms/Finding_Periods.cpp)
+1. [1110 - Minimal Rotation](String%20Algorithms/Minimal_Rotation.cpp)
+1. [1111 - Longest Palindrome](String%20Algorithms/Longest_Palindrome.cpp)
+1. [1112 - Required Substring](String%20Algorithms/Required_Substring.cpp)
+1. [2420 - Palindrome Queries](String%20Algorithms/Palindrome_Queries.cpp)
+1. [2102 - Finding Patterns](String%20Algorithms/Finding_Patterns.cpp)
+1. [2103 - Counting Patterns](String%20Algorithms/Counting_Patterns.cpp)
+1. [2104 - Pattern Positions](String%20Algorithms/Pattern_Positions.cpp)
+1. [2105 - Distinct Substrings](String%20Algorithms/Distinct_Substrings.cpp)
+1. [2106 - Repeating Substring](String%20Algorithms/Repeating_Substring.cpp)
+1. [2107 - String Functions](String%20Algorithms/String_Functions.cpp)
+1. [2108 - Substring Order I](String%20Algorithms/Substring_Order_I.cpp)
+1. [2109 - Substring Order II](String%20Algorithms/Substring_Order_II.cpp)
+1. [2110 - Substring Distribution](String%20Algorithms/Substring_Distribution.cpp)
+
+## Geometry
+1. [2189 - Point Location Test](Geometry/Point_Location_Test.cpp)
+1. [2190 - Line Segment Intersection](Geometry/Line_Segment_Intersection.cpp)
+1. [2191 - Polygon Area](Geometry/Polygon_Area.cpp)
+1. [2192 - Point in Polygon](Geometry/Point_in_Polygon.cpp)
+1. [2193 - Polygon Lattice Points](Geometry/Polygon_Lattice_Points.cpp)
+1. [2194 - Minimum Euclidean Distance](Geometry/Minimum_Euclidean_Distance.cpp)
+1. [2195 - Convex Hull](Geometry/Convex_Hull.cpp)
+
+## Advanced Techniques
+1. [1628 - Meet in the Middle](src/1628%20-%20Meet%20in%20the%20Middle.cpp)
+1. [2136 - Hamming Distance](src/2136%20-%20Hamming%20Distance.cpp)
+1. [2137 - Beautiful Subgrids](src/2137%20-%20Beautiful%20Subgrids.cpp)
+1. [2138 - Reachable Nodes](src/2138%20-%20Reachable%20Nodes.cpp)
+1. [2143 - Reachability Queries](src/2143%20-%20Reachability%20Queries.cpp)
+1. [2072 - Cut and Paste](src/2072%20-%20Cut%20and%20Paste.cpp)
+1. [2073 - Substring Reversals](src/2073%20-%20Substring%20Reversals.cpp)
+1. [2074 - Reversals and Sums](src/2074%20-%20Reversals%20and%20Sums.cpp)
+1. [2076 - Necessary Roads](src/2076%20-%20Necessary%20Roads.cpp)
+1. [2077 - Necessary Cities](src/2077%20-%20Necessary%20Cities.cpp)
+1. [2078 - Eulerian Subgraphs](src/2078%20-%20Eulerian%20Subgraphs.cpp)
+1. [2084 - Monster Game I](src/2084%20-%20Monster%20Game%20I.cpp)
+1. 2085 - Monster Game II
+1. [2086 - Subarray Squares](src/2086%20-%20Subarray%20Squares.cpp)
+1. [2087 - Houses and Schools](src/2087%20-%20Houses%20and%20Schools.cpp)
+1. [2088 - Knuth Division](src/2088%20-%20Knuth%20Division.cpp)
+1. 2111 - Apples and Bananas
+1. 2112 - One Bit Positions
+1. 2113 - Signal Processing
+1. [2101 - New Roads Queries](src/2101%20-%20New%20Roads%20Queries.cpp)
+1. 2133 - Dynamic Connectivity
+1. 2121 - Parcel Delivery
+1. 2129 - Task Assignment
+1. 2130 - Distinct Routes II
+
+## Additional Problems
+1. [1087 - Shortest Subsequence](Additional%20Problems/Shortest_Subsequence.cpp)
+1. [1146 - Counting Bits](Additional%20Problems/Counting_Bits.cpp)
+1. [1670 - Swap Game](Additional%20Problems/Swap_Game.cpp)
+1. [1134 - Prüfer Code](Additional%20Problems/Prufer_Code.cpp)
+1. [1756 - Acyclic Graph Edges](Additional%20Problems/Acyclic_Graph_Edges.cpp)
+1. [2177 - Strongly Connected Edges](Additional%20Problems/Strongly_Connected_Edges.cpp)
+1. [2179 - Even Outdegree Edges](Additional%20Problems/Even_Outdegree_Edges.cpp)
+1. [2422 - Multiplication Table](Additional%20Problems/Multiplication_Table.cpp)
+1. [1142 - Advertisement](Additional%20Problems/Advertisement.cpp)
+1. [2186 - Special Substrings](Additional%20Problems/Special_Substrings.cpp)
+1. [2229 - Permutation Inversions](Additional%20Problems/Permutation_Inversions.cpp)
+1. [1655 - Maximum Xor Subarray](Additional%20Problems/Maximum_Xor_Subarray.cpp)
+1. [1664 - Movie Festival Queries](Additional%20Problems/Movie_Festival_Queries.cpp)
+1. [1697 - Chess Tournament](Additional%20Problems/Chess_Tournament.cpp)
+1. [1702 - Tree Traversals](Additional%20Problems/Tree_Traversals.cpp)
+1. [1704 - Network Renovation](Additional%20Problems/Network_Renovation.cpp)
+1. [1707 - Graph Girth](Additional%20Problems/Graph_Girth.cpp)
+1. [1740 - Intersection Points](Additional%20Problems/Intersection_Points.cpp)
+1. [2214 - Inverse Inversions](Additional%20Problems/Inverse_Inversions.cpp)
+1. [2215 - Monotone Subsequences](Additional%20Problems/Monotone_Subsequences.cpp)
+1. [1743 - String Reorder](Additional%20Problems/String_Reorder.cpp)
+1. [2425 - Stack Weights](Additional%20Problems/Stack_Weights.cpp)
+1. [1747 - Pyramid Array](Additional%20Problems/Pyramid_Array.cpp)
+1. [1748 - Increasing Subsequence II](Additional%20Problems/Increasing_Subsequence_II.cpp)
+1. [1149 - String Removals](Additional%20Problems/String_Removals.cpp)
+1. [1188 - Bit Inversions](Additional%20Problems/Bit_Inversions.cpp)
+1. [2419 - Xor Pyramid](Additional%20Problems/Xor_Pyramid.cpp)
+1. [1086 - Writing Numbers](Additional%20Problems/Writing_Numbers.cpp)
+1. [1113 - String Transform](Additional%20Problems/String_Transform.cpp)
+1. 2427 - Letter Pair Move Game
+1. [1147 - Maximum Building I](Additional%20Problems/Maximum_Building_I.cpp)
+1. [1162 - Sorting Methods](Additional%20Problems/Sorting_Methods.cpp)
+1. [1191 - Cyclic Array](Additional%20Problems/Cyclic_Array.cpp)
+1. [2414 - List of Sums](Additional%20Problems/List_Of_Sums.cpp)
+1. [2132 - Increasing Array II](Additional%20Problems/Increasing_Array_II.cpp);
+1. [1189 - Food Division](Additional%20Problems/Food_Division.cpp)
+1. [1654 - Bit Problem](Additional%20Problems/Bit_Problem.cpp)
+1. [1698 - Swap Round Sorting](Additional%20Problems/Swap_Round_Sorting.cpp)
+1. [2430 - Binary Subsequences](Additional%20Problems/Binary_Subsequences.cpp)
+1. [1700 - Tree Isomorphism I](Additional%20Problems/Tree_Isomorphism_I.cpp)
+1. [2228 - Counting Sequences](Additional%20Problems/Counting_Sequences.cpp)
+1. [1703 - Critical Cities](Additional%20Problems/Critical_Cities.cpp)
+1. [1706 - School Excursion](Additional%20Problems/School_Excursion.cpp)
+1. [1709 - Coin Grid](Additional%20Problems/Coin_Grid.cpp)
+1. [1742 - Robot Path](Additional%20Problems/Robot_Path.cpp)
+1. [2426 - Programmers and Artists](Additional%20Problems/Programmers_and_Artists.cpp)
+1. [1757 - Course Schedule II](Additional%20Problems/Course_Schedule_II.cpp)
+1. 2174 - Removing Digits II
+1. 2180 - Coin Arrangement
+1. 2176 - Counting Bishops
+1. [2432 - Grid Puzzle I](Additional%20Problems/Grid_Puzzle_I.cpp)
+1. [2131 - Grid Puzzle II](Additional%20Problems/Grid_Puzzle_II.cpp)
+1. [1080 - Empty String](Additional%20Problems/Empty_String.cpp)
+1. [1078 - Grid Paths](Additional%20Problems/Grid_Paths.cpp)
+1. [2115 - Bit Substrings](Additional%20Problems/Bit_Substrings.cpp)
+1. [2075 - Reversal Sorting](Additional%20Problems/Reversal_Sorting.cpp)
+1. 2421 - Counting Reorders
+1. [1159 - Book Shop II](Additional%20Problems/Book_Shop_II.cpp)
+1. [1677 - Network Breakdown](Additional%20Problems/Network_Breakdown.cpp)
+1. [1203 - Visiting Cities](Additional%20Problems/Visiting_Cities.cpp)
+1. 2184 - Missing Coin Sum Queries
+1. [1157 - Number Grid](Additional%20Problems/Number_Grid.cpp)
+1. [1148 - Maximum Building II](Additional%20Problems/Maximum_Building_II.cpp)
+1. 2423 - Filling Trominos
+1. [1161 - Stick Divisions](Additional%20Problems/Stick_Divisions.cpp)
+1. [1665 - Coding Company](Additional%20Problems/Coding_Company.cpp)
+1. [1699 - Flight Route Requests](Additional%20Problems/Flight_Route_Requests.cpp)
+1. 2402 - Two Stacks Sorting
+1. [1701 - Tree Isomorphism II](Additional%20Problems/Tree_Isomorphism_II.cpp)
+1. [1705 - Forbidden Cities](Additional%20Problems/Forbidden_Cities.cpp)
+1. [1741 - Area of Rectangles](Additional%20Problems/Area_of_Rectangles.cpp)
+1. 2429 - Grid Completion
+1. [1752 - Creating Offices](Additional%20Problems/Creating_Offices.cpp)
+1. [1075 - Permutations II](Additional%20Problems/Permutations_II.cpp)
+1. 2415 - Functional Graph Distribution
+1. [1685 - New Flight Routes](Additional%20Problems/New_Flight_Routes.cpp)
+1. 2418 - Grid Path Construction
