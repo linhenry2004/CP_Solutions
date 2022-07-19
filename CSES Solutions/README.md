@@ -214,30 +214,30 @@
 1. [2195 - Convex Hull](Geometry/Convex_Hull.cpp)
 
 ## Advanced Techniques
-1. [1628 - Meet in the Middle](src/1628%20-%20Meet%20in%20the%20Middle.cpp)
-1. [2136 - Hamming Distance](src/2136%20-%20Hamming%20Distance.cpp)
-1. [2137 - Beautiful Subgrids](src/2137%20-%20Beautiful%20Subgrids.cpp)
-1. [2138 - Reachable Nodes](src/2138%20-%20Reachable%20Nodes.cpp)
-1. [2143 - Reachability Queries](src/2143%20-%20Reachability%20Queries.cpp)
-1. [2072 - Cut and Paste](src/2072%20-%20Cut%20and%20Paste.cpp)
-1. [2073 - Substring Reversals](src/2073%20-%20Substring%20Reversals.cpp)
-1. [2074 - Reversals and Sums](src/2074%20-%20Reversals%20and%20Sums.cpp)
-1. [2076 - Necessary Roads](src/2076%20-%20Necessary%20Roads.cpp)
-1. [2077 - Necessary Cities](src/2077%20-%20Necessary%20Cities.cpp)
-1. [2078 - Eulerian Subgraphs](src/2078%20-%20Eulerian%20Subgraphs.cpp)
-1. [2084 - Monster Game I](src/2084%20-%20Monster%20Game%20I.cpp)
-1. 2085 - Monster Game II
-1. [2086 - Subarray Squares](src/2086%20-%20Subarray%20Squares.cpp)
-1. [2087 - Houses and Schools](src/2087%20-%20Houses%20and%20Schools.cpp)
-1. [2088 - Knuth Division](src/2088%20-%20Knuth%20Division.cpp)
-1. 2111 - Apples and Bananas
-1. 2112 - One Bit Positions
-1. 2113 - Signal Processing
-1. [2101 - New Roads Queries](src/2101%20-%20New%20Roads%20Queries.cpp)
-1. 2133 - Dynamic Connectivity
-1. 2121 - Parcel Delivery
-1. 2129 - Task Assignment
-1. 2130 - Distinct Routes II
+1. [1628 - Meet in the Middle](Advanced%20Techniques/Meet_in_the_Middle.cpp)
+1. [2136 - Hamming Distance](Advanced%20Techniques/Hamming_Distance.cpp)
+1. [2137 - Beautiful Subgrids](Advanced%20Techniques/Beautiful_Subgrids.cpp)
+1. [2138 - Reachable Nodes](Advanced%20Techniques/Reachable_Nodes.cpp)
+1. [2143 - Reachability Queries](Advanced%20Techniques/Reachability_Queries.cpp)
+1. [2072 - Cut and Paste](Advanced%20Techniques/Cut_and_Paste.cpp)
+1. [2073 - Substring Reversals](Advanced%20Techniques/Substring_Reversals.cpp)
+1. [2074 - Reversals and Sums](Advanced%20Techniques/Reversals_and_Sums.cpp)
+1. [2076 - Necessary Roads](Advanced%20Techniques/Necessary_Roads.cpp)
+1. [2077 - Necessary Cities](Advanced%20Techniques/Necessary_Cities.cpp)
+1. [2078 - Eulerian Subgraphs](Advanced%20Techniques/Eulerian_Subgraphs.cpp)
+1. [2084 - Monster Game I](Advanced%20Techniques/Monster_Game_I.cpp)
+1. [2085 - Monster Game II](Advanced%20Techniques/Monster_Game_II.cpp)
+1. [2086 - Subarray Squares](Advanced%20Techniques/Subarray_Squares.cpp)
+1. [2087 - Houses and Schools](Advanced%20Techniques/Houses_and_Schools.cpp)
+1. [2088 - Knuth Division](Advanced%20Techniques/Knuth_Division.cpp)
+1. [2111 - Apples and Bananas](Advanced%20Techniques/Apples_and_Bananas.cpp)
+1. [2112 - One Bit Positions](Advanced%20Techniques/One_Bit_Positions.cpp)
+1. [2113 - Signal Processing](Advanced%20Techniques/Signal_Processing.cpp)
+1. [2101 - New Roads Queries](Advanced%20Techniques/New_Roads_Queries.cpp)
+1. [2133 - Dynamic Connectivity](Advanced%20Techniques/Dynamic_Connectivity.cpp)
+1. [2121 - Parcel Delivery](Advanced%20Techniques/Parcel_Delivery.cpp)
+1. [2129 - Task Assignment](Advanced%20Techniques/Task_Assignment.cpp)
+1. [2130 - Distinct Routes II](Advanced%20Techniques/Distinct_Routes_II.cpp)
 
 ## Additional Problems
 1. [1087 - Shortest Subsequence](Additional%20Problems/Shortest_Subsequence.cpp)
