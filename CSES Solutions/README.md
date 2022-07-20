@@ -327,7 +327,7 @@
 1. [1757 - Course Schedule II](Additional%20Problems/Course_Schedule_II.cpp)
 1. [2174 - Removing Digits II](Additional%20Problems/Removing_Digits_II.cpp)
 1. 2180 - Coin Arrangement
-1. 2176 - Counting Bishops
+1. [2176 - Counting Bishops](Additional%20Problems/Counting_Bishops.cpp)
 1. [2432 - Grid Puzzle I](Additional%20Problems/Grid_Puzzle_I.cpp)
 1. [2131 - Grid Puzzle II](Additional%20Problems/Grid_Puzzle_II.cpp)
 1. [1080 - Empty String](Additional%20Problems/Empty_String.cpp)
