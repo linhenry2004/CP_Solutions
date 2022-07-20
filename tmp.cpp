@@ -3,7 +3,7 @@ using namespace std;
 
 #define lc (p << 1)
 #define rc ((p << 1) | 1)
-const int maxn = 2e5 + 999;
+const int maxn = 2e5 + 1;
 
 struct node {
     int val, tag;
@@ -108,60 +108,62 @@ int query (int p) {
     }
 }
 
-int main () {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    int n, q;
-    cin >> n >> q;
-    for (int i = 1; i <= n; i++) {
-        cin >> a[i];
-        num[a[i]]++;
-    }
-    for (int i = 1; i <= maxn; i++) {
-        num[i + 1] += num[i] / 2;
-        num[i] %= 2;
-    }
-    build(1, 1, maxn);
-    while (q--) {
-        int k, L;
-        cin >> k >> L;
-        int res = a[k];
-        if (query1(1, res, res) == 1) {
-            update(1, res, res, 0);
-        } else {
-            int l = res, r = maxn;
-            while (l < r) {
-                int mid = l + r >> 1;
-                if (query1(1, res, mid) >= 1) {
-                    r = mid;
-                } else {
-                    l = mid + 1;
-                }
-            }
 
-            update(1, res, l - 1, 1);
-            update(1, l, l, 0);
-        }
 
-        a[k] = L;
-        if (query1(1, L, L) == 0) {
-            update(1, L, L, 1);
-        } else {
-            int l = L, r = maxn;
-            while (l < r) {
-                int mid = (l + r) >> 1;
-                if (query0(1, L, mid) >= 1) {
-                    r = mid;
-                } else {
-                    l = mid + 1;
-                }
-            }
 
-            update(1, L, l - 1, 0);
-            update(1, l, l, 1);
-        }
-        cout << query(1) << endl;
-    }
-    return 0;
+
+
+signed main()
+{
+	int n,q;
+	cin>>n>>q;
+	for(int i=1;i<=n;i++)
+	{
+		scanf("%d",&a[i]);
+		num[a[i]]++;
+	}
+	for(int i=1;i<=2e5+900;i++)
+	{
+		num[i+1]+=num[i]/2;
+		num[i]%=2;
+	}
+	build(1,1,2e5+900);
+	while(q--)
+	{
+		int k,L;
+		scanf("%d %d",&k,&L);
+		int res=a[k];
+		if(query1(1,res,res)==1) update(1,res,res,0);
+		else
+		{
+			int l=res,r=2e5+900;
+			while(l<r)
+			{
+				int mid=l+r>>1;
+				if(query1(1,res,mid)>=1) r=mid;
+				else l=mid+1; 
+			}
+			
+			update(1,res,l-1,1);
+			update(1,l,l,0);
+		}
+		a[k]=L;
+		if(query1(1,L,L)==0) update(1,L,L,1);
+		else
+		{
+			int l=L,r=2e5+900;
+			while(l<r)
+			{
+				int mid=l+r>>1;
+				if(query0(1,L,mid)>=1) r=mid;
+				else l=mid+1; 
+			}
+			update(1,L,l-1,0);
+			update(1,l,l,1);
+ 
+		}
+		printf("%d\n",query(1));
+	}
+	
+	
 }
