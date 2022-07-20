@@ -334,7 +334,7 @@
 1. [1078 - Grid Paths](Additional%20Problems/Grid_Paths.cpp)
 1. [2115 - Bit Substrings](Additional%20Problems/Bit_Substrings.cpp)
 1. [2075 - Reversal Sorting](Additional%20Problems/Reversal_Sorting.cpp)
-1. 2421 - Counting Reorders
+1. [2421 - Counting Reorders](Additional%20Problems/Counting_Reorders.cpp)
 1. [1159 - Book Shop II](Additional%20Problems/Book_Shop_II.cpp)
 1. [1677 - Network Breakdown](Additional%20Problems/Network_Breakdown.cpp)
 1. [1203 - Visiting Cities](Additional%20Problems/Visiting_Cities.cpp)
