@@ -17,8 +17,8 @@
 | String Algorithms     |     17/17     |
 | Geometry              |      7/7      |
 | Advanced Techniques   |     24/24     |
-| Additional Problems   |     70/77     |
-| **Total**             |  **293/300**  |
+| Additional Problems   |     71/77     |
+| **Total**             |  **294/300**  |
 
 ## Table of Contents
 - [Introductory Problems](#Introductory-Problems)
@@ -341,7 +341,7 @@
 1. 2184 - Missing Coin Sum Queries
 1. [1157 - Number Grid](Additional%20Problems/Number_Grid.cpp)
 1. [1148 - Maximum Building II](Additional%20Problems/Maximum_Building_II.cpp)
-1. 2423 - Filling Trominos
+1. [2423 - Filling Trominos](Additional%20Problems/Filling_Trominos.cpp)
 1. [1161 - Stick Divisions](Additional%20Problems/Stick_Divisions.cpp)
 1. [1665 - Coding Company](Additional%20Problems/Coding_Company.cpp)
 1. [1699 - Flight Route Requests](Additional%20Problems/Flight_Route_Requests.cpp)
