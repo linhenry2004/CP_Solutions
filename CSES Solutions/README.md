@@ -325,7 +325,7 @@
 1. [1742 - Robot Path](Additional%20Problems/Robot_Path.cpp)
 1. [2426 - Programmers and Artists](Additional%20Problems/Programmers_and_Artists.cpp)
 1. [1757 - Course Schedule II](Additional%20Problems/Course_Schedule_II.cpp)
-1. 2174 - Removing Digits II
+1. [2174 - Removing Digits II](Additional%20Problems/Removing_Digits_II.cpp)
 1. 2180 - Coin Arrangement
 1. 2176 - Counting Bishops
 1. [2432 - Grid Puzzle I](Additional%20Problems/Grid_Puzzle_I.cpp)
