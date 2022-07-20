@@ -17,8 +17,8 @@
 | String Algorithms     |     17/17     |
 | Geometry              |      7/7      |
 | Advanced Techniques   |     24/24     |
-| Additional Problems   |     69/77     |
-| **Total**             |  **292/300**  |
+| Additional Problems   |     70/77     |
+| **Total**             |  **293/300**  |
 
 ## Table of Contents
 - [Introductory Problems](#Introductory-Problems)
@@ -352,6 +352,6 @@
 1. 2429 - Grid Completion
 1. [1752 - Creating Offices](Additional%20Problems/Creating_Offices.cpp)
 1. [1075 - Permutations II](Additional%20Problems/Permutations_II.cpp)
-1. 2415 - Functional Graph Distribution
+1. [2415 - Functional Graph Distribution](Additional%20Problems/Functional_Graph_Distribution.cpp)
 1. [1685 - New Flight Routes](Additional%20Problems/New_Flight_Routes.cpp)
 1. 2418 - Grid Path Construction
