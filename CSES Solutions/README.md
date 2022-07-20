@@ -3,7 +3,7 @@
 
 > Username: linhenry2004
 
-> Current Rank (Till 7/19/2022): 44/80k
+> Current Rank (Till 7/20/2022): 33/80k
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
