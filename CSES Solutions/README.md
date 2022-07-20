@@ -17,8 +17,8 @@
 | String Algorithms     |     17/17     |
 | Geometry              |      7/7      |
 | Advanced Techniques   |     24/24     |
-| Additional Problems   |     66/77     |
-| **Total**             |  **289/300**  |
+| Additional Problems   |     69/77     |
+| **Total**             |  **292/300**  |
 
 ## Table of Contents
 - [Introductory Problems](#Introductory-Problems)
