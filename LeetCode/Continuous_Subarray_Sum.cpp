@@ -4,28 +4,16 @@ using namespace std;
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
-        if (nums.size() == 0) {
-            return 0;
-        }
-        
-        int count = 0;
         unordered_map<int, int> mp;
-        int currsum = 0;
-        
-        for (int n : nums) {
-            currsum += n;
-            if (currsum == k) {
-                count++;
+        int sum = 0, prev = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            sum = (sum + nums[i]) % k;
+            if (mp[sum]) {
+                return true;
             }
-            if (mp.find(currsum - k) != mp.end()) {
-                count += mp[currsum - k];
-            }
-            if (mp.find(currsum) != mp.end()) {
-                mp[currsum]++;
-            } else {
-                mp[currsum] = 1;
-            }
+            mp[prev]++;
+            prev = sum;
         }
-        return count;
+        return false;
     }
 };
