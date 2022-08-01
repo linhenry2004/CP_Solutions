@@ -106,3 +106,40 @@
 
 [264. Ugly Number II](Ugly_Number_II.cpp)
 
+[303. Range Sum Query - Immutable](Range_Sum_Query_Immutable.cpp)
+
+[309. Best Time to Buy and Sell Stock with Cooldown](Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cpp)
+
+[347. Top K Frequent Elements](Top_K_Frequent_Elements.cpp)
+
+[413. Arithmetic Slices](Arithmetic_Slices.cpp)
+
+[509. Fibonacci Number](Fibonacci_Number.cpp)
+
+[523. Continuous Subarray Sum](Continuous_Subarray_Sum.cpp)
+
+[560. Subarray Sum Equals K](Subarray_Sum_Equals_K.cpp)
+
+[692. Top K Frequent Words](Top_K_Frequent_Words.cpp)
+
+[714. Best Time to Buy and Sell Stock with Transaction Fee](Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.cpp)
+
+[740. Delete and Earn](Delete_and_Earn.cpp)
+
+[746. Min Cost Climbing Stairs](Min_Cost_Climbing_Stairs.cpp)
+
+[918. Maximum Sum Circular Subarray](Maximum_Sum_Circular_Subarray.cpp)
+
+[1014. Best Sightseeing Pair](Best_Sightseeing_Pair.cpp)
+
+[1048. Longest String Chain](Longest_String_Chain.cpp)
+
+[1137. N-th Tribonacci Number](Nth_Tribonacci_Number.cpp)
+
+[1567. Maximum Length of Subarray With Positive Product](Maximum_Length_of_Subarray_With_Positive_Product.cpp)
+
+[1615. Maximal Network Rank](Maximal_Network_Rank.cpp)
+
+[1761. Minimum Degree of a Connected Trio in a Graph](Minimum_Degree_of_a_Connected_Trio_in_a_Graph.cpp)
+
+[1791. Find Center of Star Graph](Find_Center_of_Star_Graph.cpp)
