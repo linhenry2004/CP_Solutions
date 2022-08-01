@@ -3,7 +3,7 @@
 
 > Username: linhenry2004
 
-> Current Rank (Till 7/22/2022): 34/80k
+> Current Rank (Till 8/1/2022): 29/83k
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
@@ -326,7 +326,7 @@
 1. [2426 - Programmers and Artists](Additional%20Problems/Programmers_and_Artists.cpp)
 1. [1757 - Course Schedule II](Additional%20Problems/Course_Schedule_II.cpp)
 1. [2174 - Removing Digits II](Additional%20Problems/Removing_Digits_II.cpp)
-1. 2180 - Coin Arrangement
+1. [2180 - Coin Arrangement](Additional%20Problems/Coin_Arrangement.cpp)
 1. [2176 - Counting Bishops](Additional%20Problems/Counting_Bishops.cpp)
 1. [2432 - Grid Puzzle I](Additional%20Problems/Grid_Puzzle_I.cpp)
 1. [2131 - Grid Puzzle II](Additional%20Problems/Grid_Puzzle_II.cpp)
@@ -338,7 +338,7 @@
 1. [1159 - Book Shop II](Additional%20Problems/Book_Shop_II.cpp)
 1. [1677 - Network Breakdown](Additional%20Problems/Network_Breakdown.cpp)
 1. [1203 - Visiting Cities](Additional%20Problems/Visiting_Cities.cpp)
-1. 2184 - Missing Coin Sum Queries
+1. [2184 - Missing Coin Sum Queries](Additional%20Problems/Missing_Coin_Sum_Queries.cpp)
 1. [1157 - Number Grid](Additional%20Problems/Number_Grid.cpp)
 1. [1148 - Maximum Building II](Additional%20Problems/Maximum_Building_II.cpp)
 1. [2423 - Filling Trominos](Additional%20Problems/Filling_Trominos.cpp)
