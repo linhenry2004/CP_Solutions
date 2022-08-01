@@ -3,7 +3,7 @@
 
 > Username: linhenry2004
 
-> Current Rank (Till 8/1/2022): 29/83k
+> Current Rank (Till 8/1/2022): 26/83k
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
@@ -17,8 +17,8 @@
 | String Algorithms     |     17/17     |
 | Geometry              |      7/7      |
 | Advanced Techniques   |     24/24     |
-| Additional Problems   |     73/77     |
-| **Total**             |  **296/300**  |
+| Additional Problems   |     74/77     |
+| **Total**             |  **297/300**  |
 
 ## Table of Contents
 - [Introductory Problems](#Introductory-Problems)
@@ -307,7 +307,7 @@
 1. [2419 - Xor Pyramid](Additional%20Problems/Xor_Pyramid.cpp)
 1. [1086 - Writing Numbers](Additional%20Problems/Writing_Numbers.cpp)
 1. [1113 - String Transform](Additional%20Problems/String_Transform.cpp)
-1. 2427 - Letter Pair Move Game
+1. [2427 - Letter Pair Move Game](Additional%20Problems/Letter_Pair_Move_Game.cpp)
 1. [1147 - Maximum Building I](Additional%20Problems/Maximum_Building_I.cpp)
 1. [1162 - Sorting Methods](Additional%20Problems/Sorting_Methods.cpp)
 1. [1191 - Cyclic Array](Additional%20Problems/Cyclic_Array.cpp)
