@@ -122,7 +122,11 @@
 
 [560. Subarray Sum Equals K](Subarray_Sum_Equals_K.cpp)
 
+[643. Maximum Average Subarray I](Maximum_Average_Subarray_I.cpp)
+
 [692. Top K Frequent Words](Top_K_Frequent_Words.cpp)
+
+[713. Subarray Product Less Than K](Subarray_Product_Less_Than_K.cpp)
 
 [714. Best Time to Buy and Sell Stock with Transaction Fee](Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.cpp)
 
