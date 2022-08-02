@@ -82,6 +82,8 @@
 
 [119. Pascal's Triangle II](Pascal_Triangle_II.cpp)
 
+[120. Triangle](Triangle.cpp)
+
 [121. Best Time to Buy and Sell Stock](Best_Time_to_Buy_and_Sell_Stock.cpp)
 
 [122. Best Time to Buy and Sell Stock II](Best_Time_to_Buy_and_Sell_Stock_II.cpp)
@@ -135,6 +137,8 @@
 [746. Min Cost Climbing Stairs](Min_Cost_Climbing_Stairs.cpp)
 
 [918. Maximum Sum Circular Subarray](Maximum_Sum_Circular_Subarray.cpp)
+
+[931. Minimum Falling Path Sum](Minimum_Falling_Path_Sum.cpp)
 
 [1004. Max Consecutive Ones III](Max_Consecutive_Ones_III.cpp)
 
