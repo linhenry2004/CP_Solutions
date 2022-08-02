@@ -136,6 +136,8 @@
 
 [918. Maximum Sum Circular Subarray](Maximum_Sum_Circular_Subarray.cpp)
 
+[1004. Max Consecutive Ones III](Max_Consecutive_Ones_III.cpp)
+
 [1014. Best Sightseeing Pair](Best_Sightseeing_Pair.cpp)
 
 [1048. Longest String Chain](Longest_String_Chain.cpp)
