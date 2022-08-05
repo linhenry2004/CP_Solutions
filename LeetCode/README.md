@@ -112,6 +112,8 @@
 
 [303. Range Sum Query - Immutable](Range_Sum_Query_Immutable.cpp)
 
+[304. Range Sum Query 2D - Immutable](Range_Sum_Query_2D_Immutable.cpp)
+
 [309. Best Time to Buy and Sell Stock with Cooldown](Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cpp)
 
 [347. Top K Frequent Elements](Top_K_Frequent_Elements.cpp)
@@ -147,6 +149,8 @@
 [1048. Longest String Chain](Longest_String_Chain.cpp)
 
 [1137. N-th Tribonacci Number](Nth_Tribonacci_Number.cpp)
+
+[1314. Matrix Block Sum](Matrix_Block_Sum.cpp)
 
 [1567. Maximum Length of Subarray With Positive Product](Maximum_Length_of_Subarray_With_Positive_Product.cpp)
 
