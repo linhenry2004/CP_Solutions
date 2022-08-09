@@ -42,6 +42,12 @@
 
 [56. Merge Intervals](Merge_Intervals.cpp)
 
+[62. Unique Paths](Unique_Paths.cpp)
+
+[63. Unique Paths II](Unique_Paths_II.cpp)
+
+[64. Minimum Path Sum](Minimum_Path_Sum.cpp)
+
 [70. Climbing Stairs](Climbing_Stairs.cpp)
 
 [83. Remove Duplicates from Sorted List](Remove_Duplicates_from_Sorted_List.cpp)
@@ -105,6 +111,10 @@
 [209. Minimum Size Subarray Sum](Minimum_Size_Subarray_Sum.cpp)
 
 [213. House Robber II](House_Robber_II.cpp)
+
+[221. Maximal Square](Maximal_Square.cpp)
+
+[238. Product of Array Except Self](Product_of_Array_Except_Self.cpp)
 
 [263. Ugly Number](Ugly_Number.cpp)
 
