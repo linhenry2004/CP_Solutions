@@ -120,6 +120,8 @@
 
 [264. Ugly Number II](Ugly_Number_II.cpp)
 
+[300. Longest Increasing Subsequence](Longest_Increasing_Subsequence.cpp)
+
 [303. Range Sum Query - Immutable](Range_Sum_Query_Immutable.cpp)
 
 [304. Range Sum Query 2D - Immutable](Range_Sum_Query_2D_Immutable.cpp)
@@ -128,9 +130,13 @@
 
 [347. Top K Frequent Elements](Top_K_Frequent_Elements.cpp)
 
+[376. Wiggle Subsequence](Wiggle_Subsequence.cpp)
+
 [413. Arithmetic Slices](Arithmetic_Slices.cpp)
 
 [509. Fibonacci Number](Fibonacci_Number.cpp)
+
+[516. Longest Palindromic Subsequence](Longest_Palindromic_Subsequence.cpp)
 
 [523. Continuous Subarray Sum](Continuous_Subarray_Sum.cpp)
 
