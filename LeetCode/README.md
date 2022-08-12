@@ -140,6 +140,8 @@
 
 [523. Continuous Subarray Sum](Continuous_Subarray_Sum.cpp)
 
+[528. Random Pick With Weight](Random_Pick_With_Weight.cpp)
+
 [560. Subarray Sum Equals K](Subarray_Sum_Equals_K.cpp)
 
 [643. Maximum Average Subarray I](Maximum_Average_Subarray_I.cpp)
@@ -168,6 +170,8 @@
 
 [1314. Matrix Block Sum](Matrix_Block_Sum.cpp)
 
+[1524. Number of Sub-arrays With Odd Sum](Number_of_Subarrays_With_Odd_Sum.cpp)
+
 [1567. Maximum Length of Subarray With Positive Product](Maximum_Length_of_Subarray_With_Positive_Product.cpp)
 
 [1615. Maximal Network Rank](Maximal_Network_Rank.cpp)
@@ -175,3 +179,7 @@
 [1761. Minimum Degree of a Connected Trio in a Graph](Minimum_Degree_of_a_Connected_Trio_in_a_Graph.cpp)
 
 [1791. Find Center of Star Graph](Find_Center_of_Star_Graph.cpp)
+
+[1856. Maximum Subarray Min-Product](Maximum_Subarray_Minproduct.cpp)
+
+[1929. Concatenation of Array](Concatenation_of_Array.cpp)
