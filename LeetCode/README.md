@@ -108,6 +108,8 @@
 
 [198. House Robber](House_Robber.cpp)
 
+[202. Happy Number](Happy_Number.cpp)
+
 [209. Minimum Size Subarray Sum](Minimum_Size_Subarray_Sum.cpp)
 
 [213. House Robber II](House_Robber_II.cpp)
@@ -173,6 +175,8 @@
 [1524. Number of Sub-arrays With Odd Sum](Number_of_Subarrays_With_Odd_Sum.cpp)
 
 [1567. Maximum Length of Subarray With Positive Product](Maximum_Length_of_Subarray_With_Positive_Product.cpp)
+
+[1590. Make Sum Divisible by P](Make_Sum_Divisible_By_P.cpp)
 
 [1615. Maximal Network Rank](Maximal_Network_Rank.cpp)
 
