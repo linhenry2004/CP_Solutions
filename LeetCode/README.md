@@ -4,7 +4,7 @@
 
 > Solutions all in C++
 
-> Solve Count: 68/2360 Problems
+> Solve Count: 95/2360 Problems
 
 [1. Two Sum](Two_Sum.cpp)
 
@@ -49,6 +49,8 @@
 [64. Minimum Path Sum](Minimum_Path_Sum.cpp)
 
 [70. Climbing Stairs](Climbing_Stairs.cpp)
+
+[72. Edit Distance](Edit_Distance.cpp)
 
 [83. Remove Duplicates from Sorted List](Remove_Duplicates_from_Sorted_List.cpp)
 
@@ -130,6 +132,8 @@
 
 [309. Best Time to Buy and Sell Stock with Cooldown](Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cpp)
 
+[322. Coin Change](Coin_Change.cpp)
+
 [347. Top K Frequent Elements](Top_K_Frequent_Elements.cpp)
 
 [376. Wiggle Subsequence](Wiggle_Subsequence.cpp)
@@ -171,6 +175,8 @@
 [1048. Longest String Chain](Longest_String_Chain.cpp)
 
 [1137. N-th Tribonacci Number](Nth_Tribonacci_Number.cpp)
+
+[1143. Longest Common Subsequence](Longest_Common_Subsequence.cpp)
 
 [1314. Matrix Block Sum](Matrix_Block_Sum.cpp)
 
