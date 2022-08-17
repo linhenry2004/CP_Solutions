@@ -138,6 +138,8 @@
 
 [376. Wiggle Subsequence](Wiggle_Subsequence.cpp)
 
+[377. Combination Sum IV](Combination_Sum_IV.cpp)
+
 [392. Is Subsequence](Is_Subsequence.cpp)
 
 [413. Arithmetic Slices](Arithmetic_Slices.cpp)
@@ -145,6 +147,8 @@
 [509. Fibonacci Number](Fibonacci_Number.cpp)
 
 [516. Longest Palindromic Subsequence](Longest_Palindromic_Subsequence.cpp)
+
+[518. Coin Change 2](Coin_Change_2.cpp)
 
 [523. Continuous Subarray Sum](Continuous_Subarray_Sum.cpp)
 
