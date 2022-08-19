@@ -4,7 +4,7 @@
 
 > Solutions all in C++
 
-> Solve Count: 100/2378 Problems
+> Solve Count: 101/2378 Problems
 
 [1. Two Sum](Two_Sum.cpp)
 
@@ -201,6 +201,8 @@
 [1761. Minimum Degree of a Connected Trio in a Graph](Minimum_Degree_of_a_Connected_Trio_in_a_Graph.cpp)
 
 [1791. Find Center of Star Graph](Find_Center_of_Star_Graph.cpp)
+
+[1797. Design Authentication Manager](Design_Authentication_Manager.cpp)
 
 [1856. Maximum Subarray Min-Product](Maximum_Subarray_Minproduct.cpp)
 
