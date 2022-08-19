@@ -124,6 +124,8 @@
 
 [264. Ugly Number II](Ugly_Number_II.cpp)
 
+[279. Perfect Squares](Perfect_Squares.cpp)
+
 [300. Longest Increasing Subsequence](Longest_Increasing_Subsequence.cpp)
 
 [303. Range Sum Query - Immutable](Range_Sum_Query_Immutable.cpp)
@@ -133,6 +135,8 @@
 [309. Best Time to Buy and Sell Stock with Cooldown](Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cpp)
 
 [322. Coin Change](Coin_Change.cpp)
+
+[343. Integer Break](Integer_Break.cpp)
 
 [347. Top K Frequent Elements](Top_K_Frequent_Elements.cpp)
 
