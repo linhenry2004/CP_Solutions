@@ -16,6 +16,8 @@
 
 [5. Longest Palindromic Substring](Longest_Palindromic_Substring.cpp)
 
+[6. Zigzag Conversion](Zigzag_Conversion.cpp)
+
 [9. Palindrome Number](Palindrome_Number.cpp)
 
 [10. Regular Expression Matching](Regular_Expression_Matching.cpp)
