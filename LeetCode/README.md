@@ -18,6 +18,8 @@
 
 [6. Zigzag Conversion](Zigzag_Conversion.cpp)
 
+[7. Reverse Integer](Reverse_Integer.cpp)
+
 [9. Palindrome Number](Palindrome_Number.cpp)
 
 [10. Regular Expression Matching](Regular_Expression_Matching.cpp)
