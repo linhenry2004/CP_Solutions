@@ -1,14 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long int
-
+ 
 const int maxn = 2e5 + 1;
 int n, k;
 vector<int> adj[maxn], C[maxn];
 int S[maxn], M[maxn], cnt[maxn];
 bool vis[maxn];
 vector<int> leaf;
-
+ 
 int dfs (int u, int p, int s) {
     if (vis[u] || s > k) {
         return 0;
@@ -24,7 +24,7 @@ int dfs (int u, int p, int s) {
     }
     return sum;
 }
-
+ 
 int dfs2 (int u) {
     if (vis[u]) {
         return 0;
@@ -41,7 +41,7 @@ int dfs2 (int u) {
     }
     return S[u];
 }
-
+ 
 int cut (int root) {
     leaf.clear();
     int cen, s;
@@ -53,7 +53,7 @@ int cut (int root) {
         }
         vis[u] = 0;
     }
-
+ 
     vis[cen] = 1;
     for (int v : adj[cen]) {
         if (!vis[v]) {
@@ -62,7 +62,7 @@ int cut (int root) {
     }
     return cen;
 }
-
+ 
 int path (int u) {
     int ans = 0, tmp;
     ans += dfs(u, u, 0);
@@ -82,8 +82,12 @@ int path (int u) {
     }
     return ans;
 }
-
+ 
 int32_t main () {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    
     cin >> n >> k;
     for (int i = 1; i < n; i++) {
         int a, b; 
@@ -91,13 +95,13 @@ int32_t main () {
         adj[a].push_back(b);
         adj[b].push_back(a);
     }
-
+ 
     int c;
     c = cut(1);
     for (bool &v : vis) {
         v = 0;
     }
-
+ 
     cout << path(c) << endl;
     return 0;
 }
